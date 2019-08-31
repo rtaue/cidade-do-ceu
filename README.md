@@ -1,5 +1,7 @@
 # Cidade do Céu
 
+![](Images/thumbnail.png)
+
 Unity version: 5.5.2f1 updated to 2019.1.8f1
 
 [PT] Jogo desenvolvido na Unity para o Inter do 3º Semestre do curso de Design de Games da Anhembi Morumbi.
@@ -20,7 +22,7 @@ Cidade do Céu gameplay video: https://youtu.be/pFZiXb8ZDmM
 
 ## Screenshots
 
-![](Images/thumbnail.png)
+![](Images/ss01.png)
 
 ![](Images/ss04.png)
 
