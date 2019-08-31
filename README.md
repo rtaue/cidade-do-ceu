@@ -14,6 +14,10 @@ This project is based on “O Sol é que Alegra o Dia” tale by João Ventura, 
 The name Cidade do Céu (translated to Heaven’s City) was chosen to illustrate the game main goal.
 During the game the player plays as L-IP12, a collector robot, that one day during his duty finds a picture with humans smiling, awaking in L-IP12 a curiosity that makes him question how would be the New World.
 
+## Screenshots
+
+< img src="Images/thumbnail.png" >
+
 Gameplay Video: https://youtu.be/pFZiXb8ZDmM
 
 Build: https://drive.google.com/open?id=142idMF2n11MUg5XcTQnfbGW73HM2suVE
