@@ -16,7 +16,7 @@ During the game the player plays as L-IP12, a collector robot, that one day duri
 
 ## Screenshots
 
-< img src="Images/thumbnail.png" >
+![](Images/thumbnail.png)
 
 Gameplay Video: https://youtu.be/pFZiXb8ZDmM
 
