@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pushable
+  - Interactable
+  - Pickup
+  - Ground
+  - Lever
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Objects
+  - Boxes
+  - Background
+  - Parallax
+  - No-collision
+  - Player
+  - Companion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 177039331
+    locked: 0
+  - name: Midground
+    uniqueID: 433794059
+    locked: 0
+  - name: Platforms
+    uniqueID: 2299114569
+    locked: 0
+  - name: Objects
+    uniqueID: 1230636731
+    locked: 0
+  - name: Companion
+    uniqueID: 4056561247
+    locked: 0
+  - name: Player
+    uniqueID: 3823796301
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
